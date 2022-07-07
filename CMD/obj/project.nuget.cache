@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7yMMZ7u5+/8q0l0WJvhr1aJXhfUGvcWsxTFheoYocH/iaFOq2KNIOz/YcGh8q8RTaXt/dGdRX7CVXlY2+v51JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Робочий стіл\\Інше\\Programming\\CMD_git_1\\CMD\\CMD\\CMD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
